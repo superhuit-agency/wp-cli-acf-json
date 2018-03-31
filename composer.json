@@ -1,0 +1,33 @@
+{
+    "name": "superhuit-ch/wp-cli-acf-json",
+    "description": "Sync ACF JSON fields, with support for multisite environments.",
+    "type": "wp-cli-package",
+    "homepage": "https://github.com/superhuit-ch/wp-cli-acf-json",
+    "support": {
+        "issues": "https://github.com/superhuit-ch/wp-cli-acf-json/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hugo Messer",
+            "email": "hugo@superhuit.ch",
+            "homepage": "https://superhuit.ch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": { "WP_CLI\\": "src" },
+        "files": [ "command.php" ]
+    },
+    "require": {},
+    "require-dev": {
+        "wp-cli/wp-cli": "*",
+        "behat/behat": "~2.5"
+    },
+    "extra": {
+        "commands": [
+            "acf-json sync"
+        ]
+    }
+}
