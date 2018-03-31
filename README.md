@@ -1,5 +1,5 @@
-superhuit-ch/acf-json-sync
-==========================
+superhuit-ch/wp-cli-acf-json
+============================
 
 Easily import JSON, compatible with ACF v5.6.9+ and the [Synchronized JSON](https://www.advancedcustomfields.com/resources/synchronized-json/) feature.
 
@@ -17,7 +17,7 @@ Installing this package requires WP-CLI v1.1.0 or greater. Update to the latest 
 
 Once you've done so, you can install this package with:
 
-    wp package install git@github.com:superhuit-ch/acf-json-sync.git
+    wp package install git@github.com:superhuit-ch/wp-cli-acf-json.git
 
 ## Contributing
 
@@ -31,9 +31,9 @@ For a more thorough introduction, [check out WP-CLI's guide to contributing](htt
 
 Think you’ve found a bug? We’d love for you to help us get it fixed.
 
-Before you create a new issue, you should [search existing issues](https://github.com/superhuit-ch/acf-json-sync/issues?q=label%3Abug%20) to see if there’s an existing resolution to it, or if it’s already been fixed in a newer version.
+Before you create a new issue, you should [search existing issues](https://github.com/superhuit-ch/wp-cli-acf-json/issues?q=label%3Abug%20) to see if there’s an existing resolution to it, or if it’s already been fixed in a newer version.
 
-Once you’ve done a bit of searching and discovered there isn’t an open or fixed issue for your bug, please [create a new issue](https://github.com/superhuit-ch/acf-json-sync/issues/new). Include as much detail as you can, and clear steps to reproduce if possible. For more guidance, [review our bug report documentation](https://make.wordpress.org/cli/handbook/bug-reports/).
+Once you’ve done a bit of searching and discovered there isn’t an open or fixed issue for your bug, please [create a new issue](https://github.com/superhuit-ch/wp-cli-acf-json/issues/new). Include as much detail as you can, and clear steps to reproduce if possible. For more guidance, [review our bug report documentation](https://make.wordpress.org/cli/handbook/bug-reports/).
 
 ### Creating a pull request
 
