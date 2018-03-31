@@ -1,7 +1,7 @@
 superhuit-ch/acf-json-sync
 ==========================
 
-Easily import JSON, compatible with ACF v5.6.9+ and the [https://www.advancedcustomfields.com/resources/synchronized-json/](Synchronized JSON) feature.
+Easily import JSON, compatible with ACF v5.6.9+ and the [Synchronized JSON](https://www.advancedcustomfields.com/resources/synchronized-json/) feature.
 Use case: when we deploy a new version of a site, we don't want to go on the admin of the production site and manually sync the "available for sync" fields.
 
 Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contributing) | [Support](#support)
