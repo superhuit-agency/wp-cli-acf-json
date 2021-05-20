@@ -1,6 +1,8 @@
 superhuit-ch/wp-cli-acf-json
 ============================
 
+⚠️ NOTICE: this repo is not actively updated so it might not be compatible with newer versions of ACF. We welcome PRs if you want to fix it though.
+
 Easily import JSON, compatible with ACF v5.6.9+ and the [Synchronized JSON](https://www.advancedcustomfields.com/resources/synchronized-json/) feature.
 
 Use case: when we deploy a new version of a site, we don't want to go on the admin of the production site and manually sync the "available for sync" fields.
